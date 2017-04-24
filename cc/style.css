@@ -1,0 +1,46 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a{
+	text-decoration: none;
+}
+
+h3{
+	border-left: 2px solid #0af;
+	padding: 10px;
+}
+.box{
+	width: 800px;
+	height: 60px;
+	overflow: hidden; 
+}
+.box label{
+	float: left;
+	width: 130px;
+	height: 60px;
+	direction: rtl;
+	padding: 5px 10px;
+}
+.box input{
+	float: left;
+	width: 300px;
+	height: 40px;
+	padding-left: 10px;
+}
+.box .password_tips{
+	position: absolute;
+	top: -30px;
+	font-size: 16px;
+}
+.box4 div{
+	float: left;
+	height: 30px;
+	width: 80px;
+	padding: 5px 0px;
+}
+.box4 div input{
+	height: 20px;
+	width: 20px;
+}
+
